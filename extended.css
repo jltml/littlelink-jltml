@@ -4,6 +4,12 @@
   transition: filter 0.3s;
 }
 
+.profile-image {
+  max-width: 128px;
+  max-height: 128px;
+  border-radius: 50%;
+}
+
 /* Website (added) */
 .button.button-website {
   color: #FFFFFF;
